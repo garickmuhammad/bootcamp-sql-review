@@ -7,7 +7,7 @@ Repositori ini berisi catatan dan skrip latihan SQL selama proses review materi 
 - **DQL & Filtering**: `SELECT DISTINCT`, operator logika dan rentang pada `WHERE`
 - **String Functions**: `UPPER`, `LOWER`, `TRIM`, `LENGTH`, dan penggabungan teks
 - **Aggregate Functions**: `AVG`, `MAX`, `MIN`, `COUNT`
-- **GROUP BY & ORDERBY**
+- **GROUP BY & ORDER BY**
 - **Relational & Nested Queries**: `INNER JOIN`, `LEFT JOIN`, serta *subqueries*
 
 ## Tools
